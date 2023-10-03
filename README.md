@@ -33,5 +33,6 @@ Currently, two official plugins are available:
 18. Use JSON placeholder API and show user in user component.
 19. Spread operator
 20. Pass data one component to another component.
+21. Diploy in netlify.
 
 
